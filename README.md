@@ -1,4 +1,4 @@
-### Hi!
+# Hi!
 I am a sophomore at Caltech studying Computer Science.
 
 🔭 I’m currently working on
