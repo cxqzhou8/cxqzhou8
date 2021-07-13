@@ -7,6 +7,7 @@ I am a sophomore at Caltech studying Computer Science.
 🌱 I’m currently learning
 - Japanese
 - Natural Language Processing
+- PostgreSQL
 <!--
 **cxqzhou8/cxqzhou8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
