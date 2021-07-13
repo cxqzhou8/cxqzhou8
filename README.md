@@ -2,7 +2,11 @@
 I am a sophomore at Caltech studying Computer Science.
 
 🔭 I’m currently working on
-- mipstar: a research textbook website for learning/discussing topics in quantum complexity
+- (mipstar)[https://github.com/vidick/mipstar]: a research textbook website for learning/discussing topics in quantum complexity.
+
+🌱 I’m currently learning
+- Japanese
+- Natural Language Processing
 <!--
 **cxqzhou8/cxqzhou8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
