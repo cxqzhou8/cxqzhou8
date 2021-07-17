@@ -3,7 +3,7 @@ I am a sophomore at Caltech studying Computer Science.
 
 🔭 I’m currently working on
 - [mipstar](https://github.com/vidick/mipstar): a research textbook website for learning/discussing topics in quantum complexity.
-- [icanwrite](https://icanwrite.org/): a web app designed to help elementary and middle school students learn how to write analytic essays.
+- [icanwrite](https://icanwrite.org/): a web app designed to help elementary and middle school students learn how to write analytical essays.
 
 🌱 I’m currently learning
 - Japanese
