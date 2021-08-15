@@ -6,7 +6,6 @@ I am a sophomore at Caltech studying Computer Science.
 - [icanwrite](https://icanwrite.org/): a web app designed to help elementary and middle school students learn how to write analytical essays.
 
 🌱 I’m currently learning
-- Japanese
 - Natural Language Processing
 - PostgreSQL
 <!--
