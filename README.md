@@ -5,9 +5,9 @@ I am a sophomore at Caltech studying Computer Science.
 - [mipstar](https://github.com/vidick/mipstar): a research textbook website for learning/discussing topics in quantum complexity.
 - [icanwrite](https://icanwrite.org/): a web app designed to help elementary and middle school students learn how to write analytical essays.
 
-🌱 I’m currently learning
+<!-- 🌱 I’m currently learning
 - Natural Language Processing
-- PostgreSQL
+- PostgreSQL -->
 <!--
 **cxqzhou8/cxqzhou8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
