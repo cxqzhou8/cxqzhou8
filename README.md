@@ -1,5 +1,5 @@
 # Hi!
-I am a sophomore at Caltech studying Computer Science.
+I am a junior at Caltech studying Computer Science.
 
 🔭 I’m currently working on
 - [mipstar](https://github.com/vidick/mipstar): a research textbook website for learning/discussing topics in quantum complexity.
